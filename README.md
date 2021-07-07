@@ -1,4 +1,21 @@
-[![Giulio Rossetti's github stats](https://github-readme-stats.vercel.app/api?username=giuliorossetti&count_private=true&show_icons=true&theme=graywhite&&hide=issues)](https://github.com/giuliorossetti)
+### Hi I'm Giulio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://twitter.com/giuliorossetti">
+  <img align="left" alt="Giulio Rossetti | Twitter" width="27px" 
+       src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/172px-Twitter_bird_logo_2012.svg.png" />
+</a>
+<a href="https://www.linkedin.com/in/giuliorossetti">
+  <img align="left" alt="Giulio's LinkedIN" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />
+</a>
+<a href="https://scholar.google.it/citations?hl=it&user=Eug48ewAAAAJ&view_op=list_works&sortby=pubdate">
+  <img align="left" alt="Giulio's Scholar" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googlescholar.svg" />
+</a>
+<a href="mailto:giulio.rossetti@gmail.com">
+  <img align="left" alt="Giulio's Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" />
+</a>
+
+
+__________________________
 
 **About Me:**
 - Researcher at the Institute of Science and Technologies "A. Faedo" ([ISTI](https://www.isti.cnr.it/en/)) of the Italian National Research Council (CNR)
