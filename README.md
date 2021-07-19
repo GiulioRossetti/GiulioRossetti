@@ -23,10 +23,11 @@ __________________________
 - Professor of "Social Network Analysis" at the [University of Pisa](https://www.unipi.it/)
 
 **Recent Publications:**
+- Miliou, I., Xiong, X., Rinzivillo, S., Zhang, Q., Rossetti, G., Giannotti, F., Pedreschi, D. and Vespignani, A. *"Predicting seasonal influenza using supermarket retail records."* PLOS Computational Biology (2021), 17(7), e1009087.
 - Rossetti, Giulio, et al. *"UTLDR: an agent-based framework for modeling infectious diseases and public interventions."* Journal of Intelligent Information Systems (2021): 1-22.
 - Morini, Virginia, Laura Pollacci, and Giulio Rossetti. *"Toward a Standard Approach for Echo Chamber Detection: Reddit Case Study."* Applied Sciences 11.12 (2021): 5390.
 - Rossetti, Giulio, Salvatore Citraro, and Letizia Milli. *"Conformity: A path-aware homophily measure for node-attributed networks."* IEEE Intelligent Systems 36.1 (2021): 25-34.
-- Cazabet, Rémy, Boudebza Souaad and Rossetti Giulio. *"Evaluating community detection algorithms for progressively evolving graphs."* Journal of Complex Networks 8 (6)
+- Cazabet, Rémy, Boudebza Souaad and Rossetti Giulio. *"Evaluating community detection algorithms for progressively evolving graphs."* Journal of Complex Networks (2021), 8 (6)
 
 **Recent Pre-Prints:**
 - Kim, J., Sîrbu, A., Giannotti, F., & Rossetti, G. (2021). *"Characterising different communities of Twitter users: Migrants and natives"*. arXiv preprint arXiv:2103.03710.
