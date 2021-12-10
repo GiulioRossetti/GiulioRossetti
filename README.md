@@ -14,9 +14,6 @@
   <img align="left" alt="Giulio's Gmail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/320px-Gmail_icon_%282020%29.svg.png" />
 </a>
 
-<a href="https://metrics.lecoq.io/about/giuliorossetti"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/giuliorossetti"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
-
 __________________________
 
 **About Me:**
