@@ -30,5 +30,8 @@ __________________________
 - Cazabet, Rémy, Boudebza Souaad and Rossetti Giulio. *"Evaluating community detection algorithms for progressively evolving graphs."* Journal of Complex Networks (2021), 8 (6)
 
 **Recent Pre-Prints:**
+- Joseph, S. M., Citraro, S., Morini, V., Rossetti, G., & Stella, M. (2021). Cognitive network science quantifies feelings expressed in suicide letters and Reddit mental health communities. arXiv preprint arXiv:2110.15269.
+- Citraro, S., Milli, L., Cazabet, R., & Rossetti, G. (2021). Delta-Conformity: Multi-scale Node Assortativity in Feature-rich Stream Graphs. arXiv preprint arXiv:2111.15534.
+- Esposito, C., Gortan, M., Testa, L., Chiaromonte, F., Fagiolo, G., Mina, A., & Rossetti, G. (2021). Can you always reap what you sow? Network and functional data analysis of VC investments in health-tech companies. arXiv preprint arXiv:2111.06371.
 - Kim, J., Sîrbu, A., Giannotti, F., & Rossetti, G. (2021). *"Characterising different communities of Twitter users: Migrants and natives"*. arXiv preprint arXiv:2103.03710.
 - Kim, J., Sîrbu, A., Rossetti, G., Giannotti, F., & Rapoport, H. (2021). *"Home and destination attachment: study of cultural integration on Twitter"*. arXiv preprint arXiv:2102.11398.
