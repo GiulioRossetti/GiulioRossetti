@@ -1,5 +1,4 @@
-### Hi I'm Giulio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hi I'm Giulio 
 <a href="https://twitter.com/giuliorossetti">
   <img align="left" alt="Giulio Rossetti | Twitter" width="27px" 
        src="https://upload.wikimedia.org/wikipedia/sco/thumb/9/9f/Twitter_bird_logo_2012.svg/172px-Twitter_bird_logo_2012.svg.png" />
@@ -17,7 +16,7 @@
 __________________________
 
 **About Me:**
-- Researcher at the Institute of Science and Technologies "A. Faedo" ([ISTI](https://www.isti.cnr.it/en/)) of the Italian National Research Council (CNR)
+- Researcher at the Science and Technologies Institute "A. Faedo" ([ISTI](https://www.isti.cnr.it/en/)) of the Italian National Research Council (CNR)
 - Memeber of the [Knowledge Discovery and Data Mining Laboratory (KDD)](https://kdd.isti.cnr.it/)
 - Professor of "Social Network Analysis" at the [University of Pisa](https://www.unipi.it/)
 
