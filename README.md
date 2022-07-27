@@ -21,8 +21,10 @@ __________________________
 - Professor of "Social Network Analysis" at the [University of Pisa](https://www.unipi.it/)
 
 **Recent Publications:**
-- Pansanella, V., Rossetti, G., & Milli, L. (2021). From Mean-Field to Complex Topologies: Network Effects on the Algorithmic Bias Model. In International Conference on Complex Networks and Their Applications (pp. 329-340). Springer, Cham.
-- Citraro, S. and Rossetti, G. “XMark: A Benchmark For Node-Attributed Community Discovery Algorithms”, Social Network Analysis and Mining journal (2021)
+- Pansanella, V., Milli, L., & Rossetti, G. (2022). *"Modeling Algorithmic Bias in Opinion Dynamics: Simplicial Complexes and Evolving Network Topologies"*. Applied Network Science journal (to appear)
+- Esposito, C., Gortan, M., Testa, L., Chiaromonte, F., Fagiolo, G., Mina, A., & Rossetti, G. (2022). *"Venture capital investments through the lens of network and functional data analysis"*. Applied Network Science journal
+- Pansanella, V., Rossetti, G., & Milli, L. (2021). *"From Mean-Field to Complex Topologies: Network Effects on the Algorithmic Bias Model"*. In International Conference on Complex Networks and Their Applications (pp. 329-340). Springer, Cham.
+- Citraro, S. and Rossetti, G. *"XMark: A Benchmark For Node-Attributed Community Discovery Algorithms"* Social Network Analysis and Mining journal (2021)
 - Miliou, I., Xiong, X., Rinzivillo, S., Zhang, Q., Rossetti, G., Giannotti, F., Pedreschi, D. and Vespignani, A. *"Predicting seasonal influenza using supermarket retail records."* PLOS Computational Biology (2021), 17(7), e1009087.
 - Rossetti, G., et al. *"UTLDR: an agent-based framework for modeling infectious diseases and public interventions."* Journal of Intelligent Information Systems (2021): 1-22.
 - Morini, V., Laura Pollacci, and Giulio Rossetti. *"Toward a Standard Approach for Echo Chamber Detection: Reddit Case Study."* Applied Sciences 11.12 (2021): 5390.
@@ -30,7 +32,6 @@ __________________________
 - Cazabet, Rémy, Boudebza Souaad and Rossetti Giulio. *"Evaluating community detection algorithms for progressively evolving graphs."* Journal of Complex Networks (2021), 8 (6)
 
 **Recent Pre-Prints:**
-- Esposito, C., Gortan, M., Testa, L., Chiaromonte, F., Fagiolo, G., Mina, A., & Rossetti, G. (2022). Venture capital investments through the lens of network and functional data analysis. arXiv preprint arXiv:2202.12859.
 - Citraro, S., Vitevitch, M. S., Stella, M., & Rossetti, G. (2022). Feature-rich multiplex lexical networks reveal mental strategies of early language learning. arXiv preprint arXiv:2201.05061.
 - Joseph, S. M., Citraro, S., Morini, V., Rossetti, G., & Stella, M. (2021). Cognitive network science quantifies feelings expressed in suicide letters and Reddit mental health communities. arXiv preprint arXiv:2110.15269.
 - Citraro, S., Milli, L., Cazabet, R., & Rossetti, G. (2021). Delta-Conformity: Multi-scale Node Assortativity in Feature-rich Stream Graphs. arXiv preprint arXiv:2111.15534.
