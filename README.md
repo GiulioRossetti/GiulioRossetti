@@ -21,7 +21,8 @@ __________________________
 - Professor of "Social Network Analysis" at the [University of Pisa](https://www.unipi.it/)
 
 **Recent Publications:**
-- Pansanella, V., Milli, L., & Rossetti, G. (2022). *"Modeling Algorithmic Bias in Opinion Dynamics: Simplicial Complexes and Evolving Network Topologies"*. Applied Network Science journal (to appear)
+- Kim, J. Sîrbu, A., Giannotti, F., Rossetti, G., Rapoport, H. (2022) *"Origin and destination attachment: study of cultural integration on Twitter"*. EPJ Data Science. 
+- Pansanella, V., Milli, L., & Rossetti, G. (2022). *"Modeling Algorithmic Bias in Opinion Dynamics: Simplicial Complexes and Evolving Network Topologies"*. Applied Network Science journal 
 - Esposito, C., Gortan, M., Testa, L., Chiaromonte, F., Fagiolo, G., Mina, A., & Rossetti, G. (2022). *"Venture capital investments through the lens of network and functional data analysis"*. Applied Network Science journal
 - Pansanella, V., Rossetti, G., & Milli, L. (2021). *"From Mean-Field to Complex Topologies: Network Effects on the Algorithmic Bias Model"*. In International Conference on Complex Networks and Their Applications (pp. 329-340). Springer, Cham.
 - Citraro, S. and Rossetti, G. *"XMark: A Benchmark For Node-Attributed Community Discovery Algorithms"* Social Network Analysis and Mining journal (2021)
