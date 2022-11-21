@@ -21,7 +21,12 @@ __________________________
 - Professor of "Social Network Analysis" at the [University of Pisa](https://www.unipi.it/)
 
 **Recent Publications:**
+-  Simmi, M.J., Citraro, S., Morini, V., Rossetti, G., Stella, M. (2022) *"Cognitive network neighbourhoods quantify feelings expressed in suicide notes and Reddit mental health communities"*. Physica A: Statistical Mechanics and its Applications
 - Kim, J. Sîrbu, A., Giannotti, F., Rossetti, G., Rapoport, H. (2022) *"Origin and destination attachment: study of cultural integration on Twitter"*. EPJ Data Science. 
+- Citraro, S., Milli, L., Cazabet, R., & Rossetti, G. (2022). *"Delta-Conformity: Multi-scale Node Assortativity in Feature-rich Stream Graphs*".  International Journal of Data Science and Analytics.
+- Pansanella, V., Morini, V., Rossetti, G. (2022) *"Change my Mind: Data Driven Estimate of Open-Mindedness from Political Discussions"*. Complex Networks and Their Applications.  Springer, Cham.
+- Buongiovanni, C., Candusso, R., Cerretini, G., Febbe, D., Morini, V., & Rossetti, G. (2022). *"Will You Take the Knee? Italian Twitter Echo Chambers’ Genesis during EURO 2020"*. Complex Networks and Their Applications.  Springer, Cham.
+- Pansanella, V., Morini, V., Squartini, T., & Rossetti, G. (2022). *"Change my Mind: Data Driven Estimate of Open-Mindedness from Political Discussions"*. In Complex Networks and Their Applications.  Springer, Cham.
 - Pansanella, V., Milli, L., & Rossetti, G. (2022). *"Modeling Algorithmic Bias in Opinion Dynamics: Simplicial Complexes and Evolving Network Topologies"*. Applied Network Science journal 
 - Esposito, C., Gortan, M., Testa, L., Chiaromonte, F., Fagiolo, G., Mina, A., & Rossetti, G. (2022). *"Venture capital investments through the lens of network and functional data analysis"*. Applied Network Science journal
 - Pansanella, V., Rossetti, G., & Milli, L. (2021). *"From Mean-Field to Complex Topologies: Network Effects on the Algorithmic Bias Model"*. In International Conference on Complex Networks and Their Applications (pp. 329-340). Springer, Cham.
@@ -35,7 +40,6 @@ __________________________
 **Recent Pre-Prints:**
 - Citraro, S., Vitevitch, M. S., Stella, M., & Rossetti, G. (2022). Feature-rich multiplex lexical networks reveal mental strategies of early language learning. arXiv preprint arXiv:2201.05061.
 - Joseph, S. M., Citraro, S., Morini, V., Rossetti, G., & Stella, M. (2021). Cognitive network science quantifies feelings expressed in suicide letters and Reddit mental health communities. arXiv preprint arXiv:2110.15269.
-- Citraro, S., Milli, L., Cazabet, R., & Rossetti, G. (2021). Delta-Conformity: Multi-scale Node Assortativity in Feature-rich Stream Graphs. arXiv preprint arXiv:2111.15534.
 - Esposito, C., Gortan, M., Testa, L., Chiaromonte, F., Fagiolo, G., Mina, A., & Rossetti, G. (2021). Can you always reap what you sow? Network and functional data analysis of VC investments in health-tech companies. arXiv preprint arXiv:2111.06371.
 - Kim, J., Sîrbu, A., Giannotti, F., & Rossetti, G. (2021). *"Characterising different communities of Twitter users: Migrants and natives"*. arXiv preprint arXiv:2103.03710.
 - Kim, J., Sîrbu, A., Rossetti, G., Giannotti, F., & Rapoport, H. (2021). *"Home and destination attachment: study of cultural integration on Twitter"*. arXiv preprint arXiv:2102.11398.
