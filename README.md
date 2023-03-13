@@ -16,7 +16,7 @@
 __________________________
 
 **About Me:**
-- Researcher at the Science and Technologies Institute "A. Faedo" ([ISTI](https://www.isti.cnr.it/en/)) of the Italian National Research Council (CNR)
+- Senior Researcher at the Science and Technologies Institute "A. Faedo" ([ISTI](https://www.isti.cnr.it/en/)) of the Italian National Research Council (CNR)
 - Memeber of the [Knowledge Discovery and Data Mining Laboratory (KDD)](https://kdd.isti.cnr.it/)
 - Professor of "Social Network Analysis" at the [University of Pisa](https://www.unipi.it/)
 - [Personal site](https://giuliorossetti.github.io/)
