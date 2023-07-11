@@ -22,12 +22,9 @@ __________________________
 - [Personal site](https://giuliorossetti.github.io/)
 
 **Recent Publications:**
-- Citraro, S., Vitevich, MS, Stella, M., Rossetti, G. (2022) Feature-rich multiplex lexical networks reveal mental strategies of early language learning. Scientific Reports.
--  Simmi, M.J., Citraro, S., Morini, V., Rossetti, G., Stella, M. (2022) *"Cognitive network neighbourhoods quantify feelings expressed in suicide notes and Reddit mental health communities"*. Physica A: Statistical Mechanics and its Applications
-- Kim, J. Sîrbu, A., Giannotti, F., Rossetti, G., Rapoport, H. (2022) *"Origin and destination attachment: study of cultural integration on Twitter"*. EPJ Data Science. 
-- Citraro, S., Milli, L., Cazabet, R., & Rossetti, G. (2022). *"Delta-Conformity: Multi-scale Node Assortativity in Feature-rich Stream Graphs*".  International Journal of Data Science and Analytics.
-- Pansanella, V., Morini, V., Rossetti, G. (2022) *"Change my Mind: Data Driven Estimate of Open-Mindedness from Political Discussions"*. Complex Networks and Their Applications.  Springer, Cham.
-- Buongiovanni, C., Candusso, R., Cerretini, G., Febbe, D., Morini, V., & Rossetti, G. (2022). *"Will You Take the Knee? Italian Twitter Echo Chambers’ Genesis during EURO 2020"*. Complex Networks and Their Applications.  Springer, Cham.
-- Pansanella, V., Morini, V., Squartini, T., & Rossetti, G. (2022). *"Change my Mind: Data Driven Estimate of Open-Mindedness from Political Discussions"*. In Complex Networks and Their Applications.  Springer, Cham.
-- Pansanella, V., Milli, L., & Rossetti, G. (2022). *"Modeling Algorithmic Bias in Opinion Dynamics: Simplicial Complexes and Evolving Network Topologies"*. Applied Network Science journal 
-- Esposito, C., Gortan, M., Testa, L., Chiaromonte, F., Fagiolo, G., Mina, A., & Rossetti, G. (2022). *"Venture capital investments through the lens of network and functional data analysis"*. Applied Network Science journal
+- Feature-rich multiplex lexical networks reveal mental strategies of early language learning. Salvatore Citraro, Michael Vitevitch, Massimo Stella, and Giulio Rossetti. Scientific Reports, 2023
+- Where do migrants and natives belong in a community: a Twitter case study and privacy risk analysis. Jisu Kim, Francesca Pratesi, Giulio Rossetti, Alina Sı̂rbu, and Fosca Giannotti. Social Network Analysis and Mining, 2023
+- Cognitive network science reveals bias in GPT-3, ChatGPT, and GPT-4 mirroring math anxiety in high-school students. Katherine Abramski, Salvatore Citraro, Luigi Lombardi, Giulio Rossetti, and Massimo Stella. Big Data and Cognitive Computing, 2023
+- Attributed Stream Hypergraphs: temporal modeling of node-attributed high-order interactions. Andrea Failla, Salvatore Citraro, and Giulio Rossetti. Applied Network Science, 2023
+- Hypergraph models of the mental lexicon capture greater information than pairwise networks for predicting language learning. Salvatore Citraro, Judy Warner-Willich, Federico Battiston, Cynthia S.Q. Siew, Giulio Rossetti, and Massimo Stella. New Ideas in Psychology, 2023
+- Academic Mobility from a Big Data Perspective. Laura Pollacci, Letizia Milli, Tuba Bircan, and Giulio Rossetti. Journal of Data Science and Analytics, 2023
