@@ -20,7 +20,8 @@ __________________________
 - Morini, V., Pansanella, V., Abramski, K., Cau, E., Failla, A., Citraro, S., & Rossetti, G. (2024). From Perils to Possibilities: Understanding how Human (and AI) Biases affect Online Fora. arXiv preprint arXiv:2403.14298.
 - Failla, A., Cazabet, R., Rossetti, G., & Citraro, S. (2024). Redefining Event Types and Group Evolution in Temporal Data. arXiv preprint arXiv:2403.06771.
 
-
+### Python Libraries for Network Analysis
+![libraries](cover.png)
 
 ### Contacts
 Feel free to contact me on:
