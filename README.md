@@ -7,13 +7,19 @@ __________________________
 - Professor of "Social Network Analysis" at the [University of Pisa](https://www.unipi.it/)
 - [Personal site](https://giuliorossetti.github.io/)
 
-### Recent Publications
-- Feature-rich multiplex lexical networks reveal mental strategies of early language learning. Salvatore Citraro, Michael Vitevitch, Massimo Stella, and Giulio Rossetti. Scientific Reports, 2023
-- Where do migrants and natives belong in a community: a Twitter case study and privacy risk analysis. Jisu Kim, Francesca Pratesi, Giulio Rossetti, Alina Sı̂rbu, and Fosca Giannotti. Social Network Analysis and Mining, 2023
-- Cognitive network science reveals bias in GPT-3, ChatGPT, and GPT-4 mirroring math anxiety in high-school students. Katherine Abramski, Salvatore Citraro, Luigi Lombardi, Giulio Rossetti, and Massimo Stella. Big Data and Cognitive Computing, 2023
-- Attributed Stream Hypergraphs: temporal modeling of node-attributed high-order interactions. Andrea Failla, Salvatore Citraro, and Giulio Rossetti. Applied Network Science, 2023
-- Hypergraph models of the mental lexicon capture greater information than pairwise networks for predicting language learning. Salvatore Citraro, Judy Warner-Willich, Federico Battiston, Cynthia S.Q. Siew, Giulio Rossetti, and Massimo Stella. New Ideas in Psychology, 2023
-- Academic Mobility from a Big Data Perspective. Laura Pollacci, Letizia Milli, Tuba Bircan, and Giulio Rossetti. Journal of Data Science and Analytics, 2023
+### Recent Publications (from 2024)
+- Abramski, K., Ciringione, L., Rossetti, G., & Stella, M. (2024). Voices of rape: Cognitive networks link passive voice usage to psychological distress in online narratives. Computers in Human Behavior, 158, 108266.
+- Kim, J., Sirbu, A., Rossetti, G., Giannotti, F., Rapoport, H., & Pratesi, F. (2024). Origin and Destination attachment of migrants on Twitter.
+- Sîrbu, A., Goglia, D., Kim, J., Magos, P. M., Pollacci, L., Spyratos, S., ... & Iacus, S. M. (2024). International mobility between the UK and Europe around Brexit: a data-driven study. Journal of Computational Social Science, 1-32.
+- Stella, M., Citraro, S., Rossetti, G., Marinazzo, D., Kenett, Y. N., & Vitevitch, M. S. (2024). Cognitive modelling of concepts in the mental lexicon with multilayer networks: Insights, advancements, and future challenges. Psychonomic Bulletin & Review, 1-24.
+- Cazabet, R., Citraro, S., & Rossetti, G. (2023). Structify-Net: Random Graph generation with controlled size and customized structure. Peer Community Journal, 3.
+- Abramski, K., Lavorati, C., Rossetti, G., & Stella, M. (2024). LLM-Generated Word Association Norms. In HHAI 2024: Hybrid Human AI Systems for the Social Good (pp. 3-12). IOS Press.
+
+### Recent Preprints (from 2024)
+- Failla, Andrea, and Giulio Rossetti. "" I'm in the Bluesky Tonight": Insights from a Year Worth of Social Data." arXiv preprint arXiv:2404.18984 (2024).
+- Morini, V., Pansanella, V., Abramski, K., Cau, E., Failla, A., Citraro, S., & Rossetti, G. (2024). From Perils to Possibilities: Understanding how Human (and AI) Biases affect Online Fora. arXiv preprint arXiv:2403.14298.
+- Failla, A., Cazabet, R., Rossetti, G., & Citraro, S. (2024). Redefining Event Types and Group Evolution in Temporal Data. arXiv preprint arXiv:2403.06771.
+
 
 
 ### Contacts
