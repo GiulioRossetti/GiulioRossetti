@@ -15,18 +15,6 @@ __________________________
 - Hypergraph models of the mental lexicon capture greater information than pairwise networks for predicting language learning. Salvatore Citraro, Judy Warner-Willich, Federico Battiston, Cynthia S.Q. Siew, Giulio Rossetti, and Massimo Stella. New Ideas in Psychology, 2023
 - Academic Mobility from a Big Data Perspective. Laura Pollacci, Letizia Milli, Tuba Bircan, and Giulio Rossetti. Journal of Data Science and Analytics, 2023
 
-### Network Analysis Libraries
-
-<div align="center">
-    <img src="css.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
-
-
-
-
-
-<br>
 
 ### Contacts
 Feel free to contact me on:
