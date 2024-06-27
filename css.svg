@@ -17,16 +17,16 @@
         </style>
         <div class="row">
   <div class="column">
-    <img src="CDlib.png" width="150">
+    <img src="CDlib.png" width="150"/>
   </div>
   <div class="column">
-   <img src="NDlib.png" width="150">
+   <img src="NDlib.png" width="150"/>
   </div>
   <div class="column">
-    <img src="DyNetx.png" width="150">
+    <img src="DyNetx.png" width="150"/>
   </div>
 <div class="column">
-    <img src="ASH.png" width="150">
+    <img src="ASH.png" width="150"/>
   </div>
 </div>
         </div>
