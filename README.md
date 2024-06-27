@@ -17,35 +17,8 @@ __________________________
 
 ### Network Analysis Libraries
 
-<style>
-.column {
-  float: left;
-  width: 24%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-
-
-<div class="row">
-  <div class="column">
-    <img src="CDlib.png" width="150">
-  </div>
-  <div class="column">
-   <img src="NDlib.png" width="150">
-  </div>
-  <div class="column">
-    <img src="DyNetx.png" width="150">
-  </div>
-<div class="column">
-    <img src="ASH.png" width="150">
-  </div>
+<div align="center">
+    <img src="css.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
 
