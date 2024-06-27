@@ -35,16 +35,16 @@ __________________________
 
 <div class="row">
   <div class="column">
-    <img src="CDlib.png" width="80%">
+    <img src="CDlib.png" width="150">
   </div>
   <div class="column">
-   <img src="NDlib.png" width="80%">
+   <img src="NDlib.png" width="150">
   </div>
   <div class="column">
-    <img src="DyNetx.png" width="80%">
+    <img src="DyNetx.png" width="150">
   </div>
 <div class="column">
-    <img src="ASH.png" width="80%">
+    <img src="ASH.png" width="150">
   </div>
 </div>
 
