@@ -17,10 +17,15 @@ __________________________
 
 ### Network Analysis Libraries
 
-![cdlib](CDlib.png)
-![ndlib](NDlib.png)
-![dynetx](DyNetx.png)
-![ASH](ASH.png)
+<img src="CDlib.png" width="150">
+<img src="NDlib.png" width="150">
+<img src="DyNetx.png" width="150">
+<img src="ASH.png" width="150">
+
+<br>
+
+### Contacts
+Feel free to contact me on:
 
 <a href="https://twitter.com/giuliorossetti">
   <img align="left" alt="Giulio Rossetti | Twitter" width="27px" 
